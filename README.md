@@ -1,1 +1,1 @@
-# wiki.laer.me
+# mwiki.laer.me
